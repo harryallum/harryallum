@@ -1,5 +1,8 @@
-[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/)
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />]([https://www.youtube.com/](https://www.youtube.com/@harrysdatajourney))
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/harry-allum)
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSdTAwbbW8cbtPzCn8mF8xw)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSdTAwbbW8cbtPzCn8mF8xw)
 
 - :computer: Aspiring Data Scientist, currently working as an Electro-Mechanical Engineer
 - :hammer_and_wrench: I build models with: `Python` `SQL` `Databricks` ...
