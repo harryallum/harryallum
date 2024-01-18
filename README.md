@@ -5,6 +5,6 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSdTAwbbW8cbtPzCn8mF8xw)
 
 - :computer: Aspiring Data Scientist, currently working as an Electro-Mechanical Engineer
-- :hammer_and_wrench: I build models with: `Python` `SQL` `Databricks` ...
+- :hammer_and_wrench: I build models with: `Python` `SQL` `PowerShell` ...
 - ⚡ I enjoy: Learning new languages, 3D printing and gaming
 - :student: Bachelors in Mechanical Engineering
