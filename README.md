@@ -7,5 +7,5 @@
 
 - :computer: Aspiring Data Scientist, currently working as an Electro-Mechanical Engineer
 - :hammer_and_wrench: I build models with: `Python` `SQL` `PowerShell` ...
-- ⚡ I enjoy: Learning new languages, 3D printing and gaming
+- ⚡ I enjoy: Building machine learning models, learning new languages and 3D printing
 - :student: Bachelors in Mechanical Engineering
